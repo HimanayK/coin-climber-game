@@ -1,0 +1,23 @@
+
+Create a simple Super Mario-style 2D platformer game using Kaboom.js. The game should be playable in the browser and include the following:
+
+1. A player character that can:
+   - Move left and right using arrow keys
+   - Jump using the up arrow
+   - Be affected by gravity
+   - Land and stand on platforms
+
+2. A game scene that includes:
+   - A background color or image
+   - A solid ground platform
+   - A few floating platforms to jump on
+
+3. Use placeholder rectangles or simple sprite boxes if sprite images are not available.
+
+4. The game should be built using:
+   - One HTML file (`index.html`) that includes a `<canvas>` and links to Kaboom.js and the game script
+   - One JavaScript file (`game.js`) that contains the Kaboom.js logic
+
+Start with a minimal working version, and keep the code simple and easy to understand for someone new to coding. Use comments to explain key parts.
+
+Use the latest version of Kaboom.js (via CDN) in the HTML file.
